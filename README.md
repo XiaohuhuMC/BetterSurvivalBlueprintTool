@@ -1,6 +1,6 @@
 # **Better Survival Blueprint Tool**
 
-[English]|[中文](README_zh.md)
+[English]|[[中文]](README_zh.md)
 
 ## **1. Introduction**
 This mod adds a *blueprint tool* to an add-on mod for [Sable Photomancy](https://github.com/Rew1nd-dev/sable-schematic-api). Unlike the original blueprint tool, the Honey Welder, it has only two modes: No Contact and Weld, and welding consumes no fuel — meeting the needs of players who want to use the no-contact feature in Survival mode.
