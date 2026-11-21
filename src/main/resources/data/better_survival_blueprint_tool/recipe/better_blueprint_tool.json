@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": "create:brass_sheet",
+    "E": "create:electron_tube"
+  },
+  "pattern": [
+    "BBB",
+    "BEB",
+    "BBB"
+  ],
+  "result": {
+    "id": "better_survival_blueprint_tool:better_blueprint_tool"
+  }
+}
