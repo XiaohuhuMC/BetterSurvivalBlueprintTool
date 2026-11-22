@@ -1,8 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "B": "create:brass_sheet",
-    "E": "create:electron_tube"
+    "B": {
+      "item":"create:brass_sheet"
+    },
+    "E": {
+      "item":"create:electron_tube"
+    }
   },
   "pattern": [
     "BBB",
